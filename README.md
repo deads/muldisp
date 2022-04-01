@@ -1,2 +1,2 @@
 # muldisp
-A legacy Scheme package for multiple method dispatch.
+A legacy Scheme package (circa 2014) for multiple method dispatch.
